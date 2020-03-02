@@ -20,8 +20,15 @@ endif::[]
 :data-uri:
 
 
-* Use and explain the BlueJeans video conferencing tool
-* Use and explain the GPTE training enviornment.
+* Objectives
+* Introduction to Bluejeans
+* BlueJeans Client
+* Bluejeans Control Panel
+* Bluejeans Chat Window
+* Instructor or Moderator Interface
+* Explaining the learner Interface
+* Ending the session
+
 
 
 == Objectives

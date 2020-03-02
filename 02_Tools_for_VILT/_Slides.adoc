@@ -1,0 +1,156 @@
+:noaudio:
+ifdef::revealjs_slideshow[]
+[#cover,data-background-image="image/1156524-bg_redhat.png" data-background-color="#cc0000"]
+== &nbsp;
+
+[#cover-h1]
+GPTE Virtual Training Guide
+
+[#cover-h2]
+Tools for VILT
+
+[#cover-logo]
+image::{revealjs_cover_image}[]
+
+endif::[]
+
+
+== Module Topics
+:scrollbar:
+:data-uri:
+
+
+* Use and explain the BlueJeans video conferencing tool
+* Use and explain the GPTE training enviornment.
+
+
+== Objectives
+:scrollbar:
+:data-uri:
+
+* Utilize the Features of BlueJeans
+
+* Present the Features of BlueJeans to learners
+
+
+== Introduction to Bluejeans
+:scrollbar:
+:data-uri:
+
+* Red Hat has selected BlueJeans as our videoconferencing provider for meeting, confrences and VILT.
+
+* BlueJeans offers some key benefits for Voice-Over-IP quality and video quality that some prior tools fell short on.
+
+* The BlueJeans tool itself also has very basic system requirements. It's available as a browser plugin on Google Chrome, as well as a standalone app for Linux, Windows, Mac OS X, iOS and Android, all of which learners may be using to connect. Regardless of the application, the interface is consistent across all platforms.
+
+== BlueJeans Client
+:scrollbar:
+:data-uri:
+
+* Bluejeans offers two interfaces to conduct confrences or trainings.
+  ** Browser based plugin
+  ** Native Client
+* Both the interfaces are quite clean and easy to use with the controls on top of the screen.
+* The current speaker is identified via icon and name shown on the screen.
+
+[TIP]
+The native client appears to have better quality screen sharing, and is suggested.
+
+== Bluejeans Control Panel
+:scrollbar:
+:data-uri:
+
+* The collection of controls are for interactions with the learners and for your own system.
+
+* The control panel allows you to turn your camera and microphone on and off, as well as record your session, or expand your browser window to fill your screen.
+
+
+[NOTE]
+It is not recommended to fill your screen, as it's likely that some learners will have a smaller screen than yours, and you will want to share your browser.
+
+
+== Bluejeans Control Panel
+:scrollbar:
+:data-uri:
+
+* The Participants window gives you a list of attendees as well
+as some controls for muting all of their lines.
+
+* Share Screen will let you share your view of the VT
+environment with learners.
+
+* Settings allows you to fine tune your video and audio settings. Switch
+to Phone, if available, gives learners a simple method for connecting to a phone bridge.
+
+[TIP]
+Before starting lecture make sure all the learners have muted thier input audio settings.
+
+[WARNING]
+Learners have the same interface, including Share Screen. Point out to learners that
+they should not share their screen unless requested to do so by you.
+ 
+== Bluejeans Chat Window
+:scrollbar:
+:data-uri:
+
+* The Chat window allows you to solicit feedback from learners and can also be used as *parking space* for questions in the session.
+
+* The Chat is a good way to interact with learners while not talking when other learners are doing there labs. 
+
+* Be aware of this when asking for responses in chat. The chat interface is also how you can do polling or look for raised hands, as it's your primary non-verbal method for interacting with learners. 
+
+* Private chat is also available in BlueJeans, simply by clicking on the learner's icon in chat, or a chat icon next to the learner's name in the participant
+window.
+
+* Have a second screen available with the chat interface open at all times to monitor
+the chat room. The second screen might be a separate monitor, or a mobile
+application.
+
+[TIP]
+We would still reccomend to use *etherpad* as parking space for questions and to share
+any other supplemetary material. Bluejeans chat can not be saved after the session is over so etherpad becomes handy. 
+
+
+== Instructor or Moderator Interface
+:scrollbar:
+:data-uri:
+
+* There are some items in the interface which are available primarily for the instructor.
+
+* You can mute or unmute everyone.
+
+* Disable entry or exit notification.
+
+* Lock current meeting. This prevents anyone from joining. Beware using
+this unless all learners are connected.
+
+
+== Explaining the learner Interface
+:scrollbar:
+:data-uri:
+
+* When running a class, start the first day with an explanation of the interface controls. 
+
+* The four key areas are the Settings, Chat, Participants, and reminding learners not to Share Screen unless requested.
+
+* Your first step should be to share your screen. Click the Share Screen icon, and you will be presented with a dialog.
+
+* Share your browser window so you can then step learners through the other features of the interface.
+
+[TIP]
+Share your entire desktop. Sharing a single app doesn't zoom the size of the app, it
+just places a blue-grey background around it. Of course, be aware that everything on
+your desktop will be visible!(Make sure you do not have anything on desktop which you do want learners to see.)
+
+
+== Ending the session
+:scrollbar:
+:data-uri:
+
+* At the end of the day, you will want learners to log out.
+
+* Direct them to the Leave icon, then click the Leave button, or have them exit their browser.
+
+* The instructor or moderator can drop everyone from the call when leaving. There's also the option to drop people from the meeting for up to 10 minutes after you leave.
+
+* . Do not leave the meeting running without being there! If learners need to contact you after hours, suggest email or etherpad.

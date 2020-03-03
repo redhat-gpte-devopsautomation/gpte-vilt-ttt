@@ -148,6 +148,9 @@ this unless all learners are connected.
 **** Click END at the bottom of the toolbar, or
 **** Click Stop in the Whiteboard box in the right side menu 
 
+[TIP]
+
+
 == Bluejeans Tools Native Client Addtional Features
 :scrollbar:
 :data-uri:

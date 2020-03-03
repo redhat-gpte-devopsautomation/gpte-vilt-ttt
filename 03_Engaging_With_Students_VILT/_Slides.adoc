@@ -1,0 +1,119 @@
+:noaudio:
+ifdef::revealjs_slideshow[]
+[#cover,data-background-image="image/1156524-bg_redhat.png" data-background-color="#cc0000"]
+== &nbsp;
+
+[#cover-h1]
+GPTE Virtual Training Guide
+
+[#cover-h2]
+Engaging With Students In The Virtual Classroom
+
+[#cover-logo]
+image::{revealjs_cover_image}[]
+
+endif::[]
+
+
+== Module Topics
+:scrollbar:
+:data-uri:
+
+
+
+* Starting a virtual class
+* Virtual Student Engagement
+* Completing Class
+
+
+ifdef::showscript[]
+
+Transcript:
+
+
+== Starting a virtual class
+:scrollbar:
+:data-uri:
+
+=== READY YOURSELF
+
+* Clear your space of anything you don't need.
+* Get any required items close to hand, such as the manual for the course, note pads and pens, water, and connection details.
+* Re-check your own set up to ensure it works, and consider rebooting your computer.
+   ** Engage with the support team if you need someone to listen to your audio or check your screen share.
+   ** It is recommended to have a second system logged in to the student view as well, to confirm what you are sharing. This may even be a mobile device or tablet.
+* Log in to the VT classroom and the audio conferencing system at least 15-20 minutes prior to class
+* Eat, drink, use the facilities, put the dog out, and hang a "Do Not Disturb" sign on your working space.
+* Turn off your notifications, including email, text messages, and other distractions
+* Install application to stop notifications coming on your screen during screen share. For example: *Muzzle for Mac OS* .
+
+== Starting a virtual class
+:scrollbar:
+:data-uri:
+
+=== The First Hour
+
+* Starting the class in the virtual environment is all about setting expectations and solving last minute issues.
+* One of the biggest challenges in a VT delivery is building engagement with the
+students.
+* Post a slide in the screen sharing area with a photo of yourself along with your name and any contact information.
+* Greet students verbally and by name as they enter the audio conference.
+* Engage in small talk before class. Get students talking about their reasons for attending.
+* Conduct a brief icebreaker activity 
+  ** Famous GPTE Animal Game. 
+  ** Request students to put their animal name in chat window as well.
+
+== Starting a virtual class
+:scrollbar:
+:data-uri:
+
+=== During Class
+
+* Be prepared to participate in the class, as you will be called on to answer questions
+* If you are dialing in over the phone, use "mute" on your phone, instead of "hold" if you have to step away, so that your hold music isn't broadcast to the group.
+* Let learners know to Put a *?* in the chat window to raise thier hand for asking questions.
+* If your environment is noisy, please mute yourself if you're not speaking. Students can temporarily unmute themselves using the spacebar in BlueJeans.
+* Please be patient when waiting for a reply in chat.
+
+== Virtual Student Engagement
+:scrollbar:
+:data-uri:
+
+=== THE ENGAGEMENT ISSUE
+
+* All instructors have had to work with students who were not engaged with a delivery, in any modality that has been used.
+* In a live delivery, it feels like it's easier to fix that, as all the students
+are physically present, and peer pressure can help get a student who is otherwise checked out to reengage with the group.
+* How can we create engagement when we're sitting in different parts of the world?
+  ** Use participant's names frequently.
+  ** Add engagement opportunities to the class when delivering lecture content.
+     *** Ask questions in chat.
+     *** Use the tools available to build interactions.
+     *** Do this at least once every 10 minutes.
+  ** Break up long lectures.
+  ** Ask students to answer questions from other students if appropriate.
+  ** Vary your voice, tone, inflection.
+  ** Leverage your video camera for the first 30 minutes of class atleast.
+  ** Speak more slowly than you do conversationally, to help with enunciation, and to ensure clear audio.
+  ** Get learners talking as often as feasible
+
+== Completing Class
+:scrollbar:
+:data-uri:
+
+=== THE LAST DAY
+
+* Remind students to do the survey.
+  * Give the students a final Q&A session where they can bring up anything that is still unclear.
+* During this session, review any questions you had to defer to make sure that everything has been answered.
+* Make sure they know timeline for Homework submission and they know method to submit Homework.
+* Thank the students for their participation during the week, and let them know they're free to log out and exit their session
+
+== Completing Class
+:scrollbar:
+:data-uri:
+
+=== Ending The Course
+
+* Make sure you have marked attendance of all the learners.
+* In the case of APAC, you have made everybody to sign the attendance sheet and send to the sponsors.

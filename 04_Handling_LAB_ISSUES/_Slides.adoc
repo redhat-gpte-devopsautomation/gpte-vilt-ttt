@@ -1,0 +1,105 @@
+:noaudio:
+ifdef::revealjs_slideshow[]
+[#cover,data-background-image="image/1156524-bg_redhat.png" data-background-color="#cc0000"]
+== &nbsp;
+
+[#cover-h1]
+GPTE Virtual Training Guide
+
+[#cover-h2]
+Lab env and Troubleshooting Guide
+
+[#cover-logo]
+image::{revealjs_cover_image}[]
+
+endif::[]
+
+== Module Topics
+:scrollbar:
+:data-uri:
+
+* Getting Help
+* Additional Tools
+* Opentlc Creds and ssh key issue
+* Troubleshooting Student Issues
+
+
+== Getting Help
+:scrollbar:
+:data-uri:
+
+* Make sure you know the Lab owners and developers before the class.
+* Read any instrctor guide or troubleshooting guide associated with the class.
+* Make sure you have added to *GPTE Tech* channel on *Google Chat*.
+
+== Addtional Tools
+:scrollbar:
+:data-uri:
+
+=== Etherpad
+* Make sure you know how to use etherpad on our OCP Shared Cluster.
+* Use `http://etherpad-opentlc-shared.apps.shared.na.openshift.opentlc.com/` to create your own etherpad.
+* Give a meaning full name to your etherpad. For example: Adv_OCP_Deployment_2020_02_12
+* Use bit.ly as URL shortening tool to share links with learners.
+* Promote learners to use etherpad for sharing additional information or reporting any bugs in the lab.
+* You can also share tips and tricks with learners using etherpad.
+
+== Additional Tools
+:scrollbar:
+:data-uri:
+
+=== Slide Server
+
+* If you want to make your own slide server for sharing slides:
+* Build artifact with latest branch using `https://jenkins.opentlc.com/jenkins/`. 
+* Download the artifact.
+* Unzip the artifact.
+* Change in the artifact directory.
+[source,bash]
+----
+odo login (to your target shared ocp cluster)          
+odo project create appdeploy              
+odo create httpd slides                        
+odo url create --port=8080
+odo push
+----
+* To install `odo` use `https://access.redhat.com/documentation/en-us/openshift_container_platform/4.2/html/cli_tools/openshift-do-developer-cli-odo
+`
+* To get access to the shared cluster you can order *OPENTLC OpenShift 4 Labs* -> *OPENTLC OpenShift 4 Labs* catalog item using `labs.opentlc.com`.
+
+== Opentlc Creds and ssh key issue
+:scrollbar:
+:data-uri:
+
+* If learners have any issue regarding opentlc account or ssh key issue:
+  * Share `https://account.opentlc.com/account/` link with them.
+  * Change/Forget Password using the above link.
+  * Update new SSH key using the above link.
+
+
+== Troubleshooting Student Issues
+:scrollbar:
+:data-uri:
+
+* If multiple students are facing the same issue. 
+  ** Connect to one the learner using your own opentlc account and private
+  ** Or use ocpkey.pem/opentlc_admin_backdoor.pem
+    *** For Ravello based env username: cloud-user and key: opentlc_admin_backdoor.pem
+    *** For AWS based env username: ec2-user and key: opentlc_admin_backdoor.pem/ocpkey.pem
+    *** For OSP/Novello based env request learner to share the his credentials which he must received through mail or username: cloud-user and key: opentlc_admin_backdoor.pem.
+* Share your screen, so that all the learners can see how to troubleshoot the issue.
+* Paste the steps on etherpad for learners future reference.
+
+
+== Troubleshooting Student Issues
+:scrollbar:
+:data-uri:
+
+* If a single user has issue:
+  ** Talk to him directly on private chat using Bluejeans so that other learners do not get disturbed.
+  ** Request him to start tmux session as root on bastion/workstation VM using command `tmux`.
+  ** Connect to his machine using `ssh`(Same steps as above) change to root and run *tmux attach*. This allow you to help him troubleshoot issue and if you are doing something learner can see what he did wrong and steps to fix the issue.
+* Paste the steps on etherpad for learners future reference.
+
+[TIP]
+Please practice how to use tmux before using it. Use the link to sharpen your tmux skills `https://www.ocf.berkeley.edu/~ckuehl/tmux/`.

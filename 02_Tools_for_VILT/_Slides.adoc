@@ -26,6 +26,7 @@ endif::[]
 * Bluejeans Control Panel
 * Bluejeans Chat Window
 * Instructor or Moderator Interface
+* Bluejeans Tools Native Client Addtional Features
 * Explaining the learner Interface
 * Ending the session
 
@@ -130,6 +131,41 @@ any other supplemetary material. Bluejeans chat can not be saved after the sessi
 
 * Lock current meeting. This prevents anyone from joining. Beware using
 this unless all learners are connected.
+
+== Bluejeans Tools Native Client Addtional Features
+:scrollbar:
+:data-uri:
+
+* Some Bluejeans tools only available in Native Client:
+** On top left of the Bluejeans Native Client click on *APPS*
+*** Whiteboard
+
+**** Click to start a new whiteboard session:
+
+**** A blank whiteboard will appear with the toolbar on the left. Post your message.
+**** All participants will be able to see the whiteboard. Don't worry, they will NOT be able to see ANY web sites / application windows in your desktop.
+**** To stop the session:
+**** Click END at the bottom of the toolbar, or
+**** Click Stop in the Whiteboard box in the right side menu 
+
+== Bluejeans Tools Native Client Addtional Features
+:scrollbar:
+:data-uri:
+
+* Annotation
+
+** Click to Start Annotation, then click the grey bar to start screensharing:
+** Meeting participants will then be shown the last screen (web site or app window) you were on prior to the App 2.x window
+** With Annotation, you can only share your entire desktop, not a specific application only
+** The tool bar will appear on the left. Use the tools to annotate over the screen displayed.
+** To stop the annotation, click END at the bottom of the toolbar (or click Stop in the Annotation box in the right side menu). Your screen will continue to be shared to all.
+** Go to another webpage or app you want to share, then click the "Annotate" blue bar at top to bring up the toolbar for that page. This blue Annotate bar will also be seen when you are screen sharing, from a Mac.
+** To stop screen sharing, click the red bar at the top.
+** The floating widget appears while you are screen sharing. Drag it, as needed:
+** Click the return arrow at top left to jump back to the app screen
+** Click the Camera or Microphone icon to mute (or unmute), or the green screen icon to stop screen sharing
+** Hide the participant's video from the top right icon
+** Expand the widget window from the lower right corner
 
 
 == Explaining the learner Interface

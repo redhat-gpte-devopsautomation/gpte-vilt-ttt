@@ -47,9 +47,13 @@ endif::[]
 
 * Red Hat has selected BlueJeans as our videoconferencing provider for meeting, confrences and VILT.
 
-* BlueJeans offers some key benefits for Voice-Over-IP quality and video quality that some prior tools fell short on.
-
-* The BlueJeans tool itself also has very basic system requirements. It's available as a browser plugin on Google Chrome, as well as a standalone app for Linux, Windows, Mac OS X, iOS and Android, all of which learners may be using to connect. Regardless of the application, the interface is consistent across all platforms.
+* BlueJeans has better Voice-Over-IP and video quality over comparable tools
+* BlueJeans has very basic system requirements
+** Available in the following modes::
+      *** Browser plug-in on Google Chrome
+      *** Standalone app for Linux, Windows, OS-X operating systems
+      *** Mobile app available for iOS and Android
+** Consistent UI across multiple devices
 
 == BlueJeans Client
 :scrollbar:
@@ -58,11 +62,12 @@ endif::[]
 * Bluejeans offers two interfaces to conduct confrences or trainings.
   ** Browser based plugin
   ** Native Client
-* Both the interfaces are quite clean and easy to use with the controls on top of the screen.
+* Both interfaces are easy to use, with controls located at the top of the screen
+
 * The current speaker is identified via icon and name shown on the screen.
 
 [TIP]
-The native client appears to have better quality screen sharing, and is suggested.
+The native clients has better screen sharing and is recommended.
 
 == Bluejeans Control Panel
 :scrollbar:
@@ -115,8 +120,7 @@ the chat room. The second screen might be a separate monitor, or a mobile
 application.
 
 [TIP]
-We would still reccomend to use *etherpad* as parking space for questions and to share
-any other supplemetary material. Bluejeans chat can not be saved after the session is over so etherpad becomes handy. 
+Since BlueJeans chats are not saved beyond the session, we recommend the use of *Etherpad* as a place to park your questions and issues, as well as shared interesting documents and links.
 
 
 == Instructor or Moderator Interface

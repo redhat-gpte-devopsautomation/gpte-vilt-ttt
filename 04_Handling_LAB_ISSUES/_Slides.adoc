@@ -30,7 +30,7 @@ endif::[]
 
 * Make sure you know the Lab owners and developers before the class.
 * Read any instrctor guide or troubleshooting guide associated with the class.
-* Make sure you have added to *GPTE Tech* channel on *Google Chat*.
+* Make sure you are added to *GPTE Tech* channel on *Google Chat*.
 
 == Addtional Tools
 :scrollbar:

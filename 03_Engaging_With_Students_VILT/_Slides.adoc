@@ -26,11 +26,6 @@ endif::[]
 * Completing Class
 
 
-ifdef::showscript[]
-
-Transcript:
-
-
 == Starting a virtual class
 :scrollbar:
 :data-uri:

@@ -149,7 +149,7 @@ this unless all learners are connected.
 **** Click Stop in the Whiteboard box in the right side menu 
 
 [TIP]
-
+Use a *Digital Pen* for whitebaord.
 
 == Bluejeans Tools Native Client Addtional Features
 :scrollbar:

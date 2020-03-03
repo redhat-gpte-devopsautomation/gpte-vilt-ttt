@@ -42,6 +42,7 @@ endif::[]
 * Give a meaning full name to your etherpad. For example: Adv_OCP_Deployment_2020_02_12
 * Use bit.ly as URL shortening tool to share links with learners.
 * Promote learners to use etherpad for sharing additional information or reporting any bugs in the lab.
+* Sample Etherpad `http://etherpad-opentlc-shared.apps.shared.na.openshift.opentlc.com/p/vilt_example`
 * You can also share tips and tricks with learners using etherpad.
 
 == Additional Tools
@@ -98,7 +99,7 @@ odo push
 * If a single user has issue:
   ** Talk to him directly on private chat using Bluejeans so that other learners do not get disturbed.
   ** Request him to start tmux session as root on bastion/workstation VM using command `tmux`.
-  ** Connect to his machine using `ssh`(Same steps as above) change to root and run *tmux attach*. This allow you to help him troubleshoot issue and if you are doing something learner can see what he did wrong and steps to fix the issue.
+  ** Connect to his machine using `ssh`(Same steps as above) change to root and run *tmux attach*. This allow you to help him troubleshoot issue and if you are doing something learner should see what he did wrong and steps to fix the issue.
 * Paste the steps on etherpad for learners future reference.
 
 [TIP]
